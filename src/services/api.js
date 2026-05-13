@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://asset-manager--vkarthika286.replit.app"
+const API_URL = "https://smart-chair-backend.onrender.com"
 
 async function handleResponse(res) {
   if (!res.ok) {
